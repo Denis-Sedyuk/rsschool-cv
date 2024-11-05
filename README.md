@@ -1,3 +1,1 @@
-# rsschool-cv
-
-https://Denis-Sedyuk.github.io/rsschool-cv/cv
+https://Denis-Sedyuk.github.io/rsschool-cv/
